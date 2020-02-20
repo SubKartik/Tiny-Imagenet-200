@@ -1,0 +1,32 @@
+#!/bin/bash
+
+time python ./tfdali-imagenet-cpu.py train-00010-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00011-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00012-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00013-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00014-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00015-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00016-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00017-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00018-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00019-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00020-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00021-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00022-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00023-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00024-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00025-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00026-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00027-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00028-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00029-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00030-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00031-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00032-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00033-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00034-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00035-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00036-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00037-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00038-of-01024 &
+time python ./tfdali-imagenet-cpu.py train-00039-of-01024 &
